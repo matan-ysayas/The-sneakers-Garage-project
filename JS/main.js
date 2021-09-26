@@ -3,7 +3,7 @@ var Products = [
     name: "Nike Air Max 90 Premium",
     Description:
       "The Nike Air Max 90 Premium brings a new twist to the original Waffle outsole",
-    price: 350,
+    price: 450,
     category: "nike",
     images: [
       "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/d9d85e30-64bf-4134-b3dc-1b096be44aa0/air-max-90-shoes-rDzK35.png",
@@ -15,7 +15,7 @@ var Products = [
     name: "Nike Air Force 1 '07",
     Description:
       "The radiance lives on in the Nike Air Force 1 '07, the b-ball icon that puts a fresh spin on what you know best",
-    price: 350,
+    price: 650,
     category: "nike",
     images: [
       "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/350e7f3a-979a-402b-9396-a8a998dd76ab/air-force-1-07-shoe-ZLZpmn.png",
@@ -28,7 +28,7 @@ var Products = [
     name: "Air Jordan 1 Mid SE",
     Description:
       "The charismatic sneaker that broke the rules on court now sets the standard off the hardwood",
-    price: 350,
+    price: 300,
     category: "nike",
     images: [
       "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/7a610bed-f867-409f-a495-eca3e4ab867f/air-jordan-1-mid-se-shoe-R70d7t.png",
@@ -41,7 +41,7 @@ var Products = [
     name: "Nike Air Force 1 Crater Flyknit",
     Description:
       "Your modern take on the hoops icon, the Nike Air Force 1 Crater Flyknit updates classic b-ball style with at least 20% recycled materials by weight.",
-    price: 350,
+    price: 250,
     category: "nike",
     images: [
       "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/586b8e0b-7222-43c2-978a-f3ea3ad023be/air-force-1-crater-flyknit-shoe-dL0Pqv.png",
@@ -53,7 +53,7 @@ var Products = [
     name: "Nike Blazer Mid '77",
     Description:
       "Celebrating visual art and old-school b-ball style, the Nike Blazer Mid '77 features a paint splatter upper",
-    price: 350,
+    price: 720,
     category: "nike",
     images: [
       "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/4c2ea33b-0c25-47dc-9fbf-314ab3d81340/blazer-mid-77-shoes-FlQQW4.png",
@@ -77,7 +77,7 @@ var Products = [
     name: "Air Jordan 11 CMFT Low",
     Description:
       "The Air Jordan 11 CMFT Low looks to the future of flight with comfort in mind",
-    price: 350,
+    price: 200,
     category: "nike",
     images: [
       "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/d36398ca-769e-4d48-bf5e-d8366532f32a/air-jordan-11-cmft-low-shoes-T8FjZ8.png",
@@ -89,7 +89,7 @@ var Products = [
     name: "Nike Air Max Plus",
     Description:
       "The Nike Air Max Plus takes the '98 original into the space where the outdoors and the digital world overlap",
-    price: 350,
+    price: 500,
     category: "nike",
     images: [
       "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/0530a7cf-e432-4081-b6a2-ca1aaf18e0f0/air-max-plus-shoes-rZc2cT.png",
@@ -113,7 +113,7 @@ var Products = [
     name: "Air Jordan 1 Low",
     Description:
       "Inspired by the original that debuted in 1985, the Air Jordan 1 Low offers a clean, classic look that's familiar yet always fresh",
-    price: 350,
+    price: 600,
     category: "nike",
     images: [
       "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/dd9e9708-d446-4b2f-a019-f859476aa1fb/air-jordan-1-low-shoe-v2kdOZ.png",
@@ -137,7 +137,7 @@ var Products = [
     name: "Nike Metcon 7",
     Description:
       "The Nike Metcon 7 is the gold standard for weight training—even tougher and more stable than previous versions",
-    price: 350,
+    price: 290,
     category: "nike",
     images: [
       "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/4496a1e4-d597-4695-966c-059607686c46/metcon-7-training-shoes-mj0r6f.png",
@@ -161,7 +161,7 @@ var Products = [
     name: "Nike Free Run 5.0",
     Description:
       ".New cushioning is lighter, softer and more responsive than previous versions",
-    price: 350,
+    price: 550,
     category: "nike",
     images: [
       "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/ee281381-035f-4ade-a527-edee55c915cb/free-run-5-running-shoes-DBLJkT.png",
@@ -184,7 +184,7 @@ var Products = [
   {
     name: "Nike Glide FlyEase Premium",
     Description: "Made from at least 20% recycled material by weight.",
-    price: 350,
+    price: 450,
     category: "nike",
     images: [
       "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/315541e1-47e3-4508-a171-2ae6bc72b7cf/glide-flyease-shoe-TkWMz9.png",
