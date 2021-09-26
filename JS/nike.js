@@ -33,8 +33,8 @@ for (let i = 0; i < addToCart.length; i++) {
     PageCart.push(Products[i]);
     totalToPay += Products[i].price;
     alertBox.innerHTML = `<div id="popUpDiv"><h2>Your selection has been added to cart</h2>
-        <h1>item price :<span id="productsPriceSpan"> ${Products[i].price}$</span></h1>
-        <h1> total to pay :<span id="totalPriceSpan">${totalToPay}$</h1></span></div>
+        <h1>item price :<span id="productsPriceSpan">${Products[i].price}$</span></h1>
+        <h1> total to pay :<span id="totalPriceSpan">${totalToPay}$</span></h1></div>
         `;
     let counter = 0;
     let intervaleId = window.setInterval(() => {
