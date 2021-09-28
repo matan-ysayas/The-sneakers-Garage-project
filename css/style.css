@@ -8,7 +8,7 @@
   height: 100%;
   position: fixed;
   z-index: -100;
-  filter: brightness(60%);
+  filter: brightness(80%);
 }
 
 #continer {
@@ -34,8 +34,9 @@ nav ul {
 
 nav ul li {
   text-decoration: none;
-  font-family: 'Train One', cursive;
+  /* font-family: 'Train One', cursive; */
   font-size: large;
+  font-family: 'Luckiest Guy', cursive;
 }
 
 nav ul li a {
