@@ -71,3 +71,5 @@ for (let i = 0; i < removeFromCart.length; i++) {
     }, 2000);
   };
 }
+
+console.log(PageCart)
