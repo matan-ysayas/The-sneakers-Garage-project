@@ -107,3 +107,8 @@ th{
     font-size: x-large;
     font-family: "Train One", cursive;
 }
+
+table button{
+  background-color:rgb(99, 124, 150);
+  border-radius: 20%;
+}
