@@ -17,7 +17,9 @@ for (let i = 0; i < Products.length; i++) {
         </div>                   
         </article>`;
     for (let j = 0; j < Products[i].images.length; j++) {
-      shoeImagesBox[shoeImagesBox.length - 1].innerHTML += `<img src=${Products[i].images[j]} class="shoeTwoImgs " >`;
+      shoeImagesBox[
+        shoeImagesBox.length - 1
+      ].innerHTML += `<img src=${Products[i].images[j]} class="shoeTwoImgs " >`;
     }
   }
 }
@@ -72,4 +74,4 @@ for (let i = 0; i < removeFromCart.length; i++) {
   };
 }
 
-console.log(PageCart)
+console.log(PageCart);
